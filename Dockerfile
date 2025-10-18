@@ -1,7 +1,7 @@
 # Simple base image using Alpine
 FROM alpine:3.18
 
-LABEL maintainer="you@example.com"
+LABEL maintainer="LABEL maintainer="krishnaharshap <qa-automation@example.com>"
 LABEL version="0.1.0"
 LABEL description="QA Test Automation Demo Container"
 

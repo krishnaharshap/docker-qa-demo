@@ -1,0 +1,11 @@
+# Node / OS / Docker
+node_modules/
+*.log
+.DS_Store
+.env
+.idea/
+*.iml
+**/tmp/
+**/dist/
+**/build/
+docker-qa-demo*.tar

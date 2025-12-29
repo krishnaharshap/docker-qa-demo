@@ -5,7 +5,7 @@ A lightweight Alpine-based Docker image for validating QA automation workflows a
 
 ---
 
-## 🧪 Purpose
+## Purpose
 
 - Demonstrate building and validating a minimal Docker image for QA automation.
 - Showcase publishing to GHCR with proper metadata and versioning.
@@ -13,7 +13,7 @@ A lightweight Alpine-based Docker image for validating QA automation workflows a
 
 ---
 
-## ⚙️ Features
+## Features
 
 - **Base Image**: `alpine:3.18`
 - **Script**: `hello.sh` for basic functionality validation
@@ -23,7 +23,7 @@ A lightweight Alpine-based Docker image for validating QA automation workflows a
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Build Locally
 
@@ -47,17 +47,17 @@ docker push ghcr.io/krishnaharshap/docker‑qa‑demo:0.1.0
 
 *Note: Ensure GHCR visibility is set to public if you wish to share the image.*
 
-## 🧩 Extending the Image
+## Extending the Image
 
 * Add test frameworks (e.g., Selenium, Playwright)
 * Integrate with CI/CD pipelines (GitHub Actions, Jenkins)
 * Implement health checks and multi-architecture support
 
-## 📄 License
+## License
 
-MIT License
+MIT License (see LICENSE file)
 
-## 📌 Metadata
+## Metadata
 
 Maintainer: Krishna Harsha P
 
